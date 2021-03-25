@@ -67,7 +67,7 @@
     "cross-env": "^7.0.2",
     "delay-cli": "^1.1.0",
     "faucet": "0.0.1",
-    "linkinator": "^2.1.1",
+    "linkinator": "^2.2.1",
     "lockfile-lint": "^4.3.7",
     "nock": "^13.0.2",
     "node-fetch": "^2.6.0",
@@ -77,7 +77,7 @@
     "remark-preset-lint-node": "^1.16.0",
     "st": "^2.0.0",
     "standard": "^14.3.4",
-    "stylelint": "^13.6.1",
+    "stylelint": "^13.8.0",
     "stylelint-config-twbs-bootstrap": "^2.0.3",
     "tape": "^5.0.1",
     "vnu-jar": "20.6.30"
