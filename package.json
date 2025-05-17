@@ -68,7 +68,7 @@
     "delay-cli": "^1.1.0",
     "faucet": "0.0.1",
     "linkinator": "^2.1.1",
-    "lockfile-lint": "^4.3.7",
+    "lockfile-lint": "^4.14.1",
     "nock": "^13.0.2",
     "node-fetch": "^3.2.10",
     "proxyquire": "^2.1.3",
